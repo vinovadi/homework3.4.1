@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ThemeColour</string>
+    <string name="choose_language">Language</string>
+    <string name="apply_btn">Apply</string>
+    <string name="choose_theme">Theme</string>
+    <string-array name="themes">
+        <item>black</item>
+        <item>green</item>
+        <item>blue</item>
+    </string-array>
+</resources>

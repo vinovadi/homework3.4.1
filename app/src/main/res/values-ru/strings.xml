@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ThemeColour</string>
+    <string name="choose_language">Язык</string>
+    <string name="apply_btn">Применить</string>
+    <string name="choose_theme">Тема</string>
+</resources>

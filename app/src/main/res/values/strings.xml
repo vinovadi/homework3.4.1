@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ThemeColour</string>
+    <string name="choose_language">Язык</string>
+    <string name="apply_btn">Применить</string>
+    <string-array name="languages">
+        <item>Русский</item>
+        <item>English</item>
+        <item>Deutsch</item>
+    </string-array>
+    <string name="choose_theme">Тема</string>
+    <string-array name="themes">
+        <item>чёрная</item>
+        <item>зелёная</item>
+        <item>синяя</item>
+    </string-array>
+</resources>
